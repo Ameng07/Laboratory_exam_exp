@@ -4,7 +4,7 @@
 2. **python3.8+**
 
 # 使用教程
-1. **<font style="color:rgb(0, 0, 0);">命令行运行</font>**`**<font style="color:rgb(0, 0, 0);">safe_exp.exe</font>**`**<font style="color:rgb(0, 0, 0);">文件，进入考试界面后，在命令行中按下空格</font>**
+1. **<font style="color:rgb(0, 0, 0);">命令行运行 safe_exp.exe 文件，进入考试界面后，在命令行中按下空格</font>**
 
 ![](https://cdn.nlark.com/yuque/0/2025/png/34687646/1763733284849-2c716b35-49ef-4bed-b914-6ed1d5e3f02f.png)
 
